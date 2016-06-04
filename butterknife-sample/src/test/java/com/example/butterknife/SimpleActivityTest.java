@@ -37,5 +37,7 @@ public class SimpleActivityTest {
     assertThat(activity.hello).isNull();
     assertThat(activity.listOfThings).isNull();
     assertThat(activity.footer).isNull();
+
+    // 测试 添加注释
   }
 }
